@@ -9,11 +9,12 @@
 <br />
 ##
 ### skills:
--  HTML / HTML5 <br/>
+- HTML / HTML5 <br/>
 - CSS 3 <br/>
 - Bootstrap <br/>
 - JavaScript <br/>
-- React JS<br/>
+- Python<br/>
+- Django<br>
 - JQuery<br/>
 - C++ <br/>
 - Java <br/>
