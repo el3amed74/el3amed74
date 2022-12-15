@@ -13,8 +13,8 @@
 - CSS 3 <br/>
 - Bootstrap <br/>
 - JavaScript <br/>
+- React js<br>
 - Python<br/>
-- Django<br>
 - JQuery<br/>
 - C++ <br/>
 - Java <br/>
