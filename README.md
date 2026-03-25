@@ -52,7 +52,7 @@ Here's a quick look at my GitHub activity (you can replace this with your own st
 ---
 
 ## 📬 Let's Connect!
-- 📧 Email: [el3amed22@gmail.com](mailto:el3amed22@gmail.com)  
+- 📧 Email: [Ahmed Salem ](mailto:ahmedsalemkamel720@gmail.com)  
 - 🌐 LinkedIn: [Ahmed Salem](https://www.linkedin.com/in/ahmed-salem-2600b51a4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlSMlOFNSSUC0160JHSiB2g%3D%3D)  
 
 - 🖥 Portfolio: [Portfolio](https://www.linkedin.com/in/ahmed-salem-2600b51a4/overlay/1635549386666/single-media-viewer?type=LINK&profileId=ACoAAC-2XigBIfKUXsWtIVHtTXJV_n27LjBwQvI&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BhrnNO8FkSAKEl3QddlOVxw%3D%3D)  
