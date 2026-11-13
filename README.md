@@ -58,26 +58,7 @@ $ahmed = new Developer([
 ### 📊 My GitHub at a glance
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=el3amed74&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el3amed74&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=el3amed74&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
-### 📈 Contribution activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=el3amed74&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
-</div>
-
-### 🏆 Achievements & trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=el3amed74&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies" />
+  <img src="metrics.svg" alt="Ahmed's GitHub metrics" />
 </div>
 
 ### 🐍 Watch my commits get eaten
